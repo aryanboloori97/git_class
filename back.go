@@ -1,0 +1,1 @@
+// Hello this is our golang script file
